@@ -1,6 +1,0 @@
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/rebuild_cache.dir
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/list_install_components.dir
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/install.dir
-C:/Users/wtdes/Downloads/files 1/build/pioasm/CMakeFiles/install/local.dir

@@ -1,2 +1,0 @@
-C:/Users/wtdes/Downloads/files 1/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
-C:/Users/wtdes/Downloads/files 1/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

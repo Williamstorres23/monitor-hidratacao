@@ -1,0 +1,6 @@
+build/ 
+pico-sdk/ 
+libs/ssd1306/ 
+*.uf2 
+*.elf 
+config.h 
