@@ -135,7 +135,6 @@ MIT License — livre para uso, modificação e distribuição com atribuição.
 ---
 
 ## Autor
+Williams Torres Garcia da Silva - Aluno EmbarcaTech
+Desenvolvido como Projeto Final do EmbarcaTech Expansão — 2026.
 
-Desenvolvido como Projeto Final do EmbarcaTech Expansão — 2025.
-
-Uso de IA: Claude (Anthropic) foi utilizado como assistente no desenvolvimento da arquitetura do sistema, estruturação do código em C, elaboração deste README e do relatório técnico.
